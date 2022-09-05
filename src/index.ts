@@ -17,7 +17,6 @@ if (arg){
 }
 
 }
-
 const main=()=>{
     let arg=getArgs();
     if (arg){
